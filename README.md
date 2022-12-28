@@ -7,7 +7,7 @@ Web Developer
 I've been learning for code 2 year.I start with HTML ,but have really found a passion for backend developer
 
 * 🌍  I'm based in Lahore Pakistan
-* ✉️  You can contact me at [abdulwahabmunir@hotmail.com](mailto:abdulwahabmunir@hotmail.com)
+* ✉️  You can contact me at [abdulwahab](mailto:abdulwahabmunir@hotmail.com)
 * 🧠  I'm learning everything javascript
 
 ### Skills
