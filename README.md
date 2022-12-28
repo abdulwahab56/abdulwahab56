@@ -28,7 +28,7 @@ I've been learning for code 2 year.I start with HTML ,but have really found a pa
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/abdulwahab56" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-### Badges
+
 
 <b>My GitHub Stats</b>
 
